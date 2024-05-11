@@ -36,7 +36,8 @@ print(df.tail())
 print("Number of rows:",len(df.axes[0]))
 print("Number of columns:",len(df.axes[1]))
 ```
-
+## OUTPUT:
+![alt text](image.png)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
